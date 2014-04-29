@@ -1,15 +1,15 @@
 CC_MarsObserver
 ===============
-
 CodeChallenge-MarsObserver
 Code by node.js
-===============
+
 
 How to Execute (in the shell terminal):
+=====
 ~ node MarsObserverTest.js
 
 Expect Result :
-===============
+=====
 
 ===RESULT===
 true
